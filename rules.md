@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+January 1st, 2018
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
@@ -26,3 +26,12 @@ June 25th, 2016. [PUT YOUR DATE HERE]
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+
+jan 1st
+2 hours of php
+
+jan 2nd
+2hours of php and 2 hours of wordpress
+
+jan 3rd- jan 17th
+php, python, html, regex all on hackerrank.com
