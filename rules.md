@@ -27,11 +27,4 @@ January 1st, 2018
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-jan 1st
-2 hours of php
 
-jan 2nd
-2hours of php and 2 hours of wordpress
-
-jan 3rd- jan 17th
-php, python, html, regex all on hackerrank.com
